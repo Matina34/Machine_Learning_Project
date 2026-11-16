@@ -1,13 +1,14 @@
 # --- PROJECT ---
 
 [project]
-name = "em-ec-ml-class-2026"
+name = "ML project"
 version = "0.1.0"
-description = "Teaching material for EM/EC Lyon Data Science class, 2026"
+description = "Hotel booking prediction models"
 readme = "README.md"
 authors = [
-    { name = "jbaujogue", email = "jb.aujogue@gmail.com" },
-    { name = "jsavinien", email = "savinien@em-lyon.com" }
+    { name = "Alvard Harutyunyan" },
+    { name = "Arushi Arora" }
+    { name = "Matina Ravan" }
 ]
 requires-python = ">=3.12,<3.13"
 
